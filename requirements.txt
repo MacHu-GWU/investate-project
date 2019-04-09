@@ -1,0 +1,6 @@
+attrs_mate==0.0.3
+attrs
+numpy
+pandas
+tabulate
+constant2==0.0.13
